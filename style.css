@@ -1,0 +1,148 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: white;
+}
+.toparea{
+    padding: 0;
+    margin: 0;
+    background: url('img1.png');
+}
+.toparea h1{
+    font:semibold 80px arial,verdana;
+    color: white;
+}
+.toparea p{
+    color: white;
+}
+.abc{
+    background: rgba(253, 254, 254, 0.3);
+}
+.abc1{
+    padding: 10px;
+}
+.tr1{
+    text-align: right;
+    padding: 10px 0;
+}
+.abc2{
+    padding: 155px;
+}
+.btn{
+    background-color: #014B40;
+    border-radius: 10px;
+}
+.tr{
+    text-align: right;
+    padding: 40px 0;
+    color: #014B40;
+}
+.box{
+    padding: 20px 0;
+}
+.box h3{
+    padding: 40px 0;
+    color: #014B40;
+}
+.box img{
+    width: 100%;
+    border-radius: 20px;
+}
+.searchbar{
+    padding: 60px 0;
+    background: url('imgbg1.png') no-repeat bottom left, url('imgbg2.png') no-repeat top right;
+    border-radius: 5px;
+    background-color: #014B40;
+}
+.ab1 img{
+    width: 40px;
+    height: 40px;
+    margin-left: 15px;
+}
+.ab2 img{
+    width: 40px;
+    height: 40px;
+    margin-right: 25px;
+}
+.plantarea{
+    padding: 40px 0;
+}
+.plantarea h3{
+    color: #014B40;
+    padding: 40px 0;
+}
+.plantarea img{
+    border-radius: 15px;
+}
+.tr2{
+    transition-property: transform;
+}
+.tr2:hover{
+    transform: translateY(70px);
+}
+.plant1area h4{
+    padding: 40px 0;
+    color: #014B40;
+}
+.plant1area img{
+    border-radius: 15px;
+}
+.free{
+    padding: 60px 0;
+    position: relative;
+}
+.free img{
+    border-radius: 20px;
+}
+.details{
+    position: absolute;
+    top: 50px;
+    left: 100px;
+    right: 100px;
+    text-align: center;
+    color:white;
+}
+.lastarea{
+    background-color: #014B40;
+    padding: 100px;
+    color: white;
+}
+.lastarea img{
+    color: white;
+}
+.lastarea p{
+    padding: 10px 0;
+}
+.lastarea h3{
+    padding-bottom: 5px;
+}
+.lastarea ul li{
+    list-style: none;
+    padding: 8px;
+}
+.lastarea h4{
+    padding: 4px;
+}
+.lastarea input[type=text]{
+    background: rgba(253, 254, 254, 0.5);
+}
+::placeholder{
+    color: #F2F3F4;
+}
+.abc3 h6{
+    margin: 0;
+}
+.abc3 p{
+    margin: 0;
+}
+.boxarea{
+    margin-top: 100px;
+    background: rgba(253, 254, 254, 0.3);
+    width: 1080px;
+    height: 40px;
+    border-radius: 5px;
+}
+.boxarea a{
+    color: white;
+    padding: 15px;
+}
